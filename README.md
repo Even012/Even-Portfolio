@@ -1,2 +1,2 @@
-# Even Portfolio
- My personal portfolio project
+# Evan Portfolio
+ My personal portfolio website
